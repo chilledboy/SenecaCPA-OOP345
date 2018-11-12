@@ -1,0 +1,5 @@
+﻿  Grades.cpp
+  W5.cpp
+  Generating Code...
+c:\users\traci\onedrive\seneca@york\repos - seneca@york\oop345\ws05_oop345\letter.h(49): warning C4172: returning address of local variable or temporary: strGrd
+  ws05_oop345.vcxproj -> C:\Users\traci\OneDrive\Seneca@York\Repos - Seneca@York\OOP345\ws05_oop345\Debug\ws05_oop345.exe
