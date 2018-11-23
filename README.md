@@ -7,6 +7,6 @@ The milestones are a breakdown of a project. These are assigned within the last 
 
 
 # Other things to note
-* Depending on the workshop or milestone, header and implementation files may have already been provided by the professor. Oftentimes it is the header and main files that's given. **To see if it has been provided, check lab instructions (docx file).**
+* Depending on the workshop or milestone, header and implementation files may have already been provided by the professor. Oftentimes it is the header and main files that's given. **To see if it has been provided, check the lab instructions (docx file).**
 
 * All work for this course is submitted via BlackBoard rather than previously being PuTTy.
