@@ -10,3 +10,6 @@ The milestones are a breakdown of a project. These are assigned within the last 
 * Depending on the workshop or milestone, header and implementation files may have already been provided by the professor. Oftentimes it is the header and main cpp files that are given. **To see if it has been provided, check the lab instructions (docx file).**
 
 * All work for this course is done on Visual Studio and submitted via BlackBoard rather than previously being PuTTy.
+
+* The workshops follow the format of the following outlined text: https://scs.senecac.on.ca/~oop345/pages/timeline.html
+  Workshop 1 will cover week 1 material, workshop 2 will cover week 2, and so on.
