@@ -1,0 +1,3 @@
+﻿  CustomerOrder.cpp
+c:\users\traci\onedrive\seneca@york\repos - seneca@york\oop345\ms02_oop345\customerorder.cpp(89): warning C4804: '*=': unsafe use of type 'bool' in operation
+  ms02_oop345.vcxproj -> C:\Users\traci\OneDrive\Seneca@York\Repos - Seneca@York\OOP345\ms02_oop345\Debug\ms02_oop345.exe
